@@ -19,11 +19,24 @@ My name is <b>Rafael Oliveira</b>. I work as a Software Engineer at <b>Daki</b>.
 
 ### Analytics ⚙️
 
-![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oliveira-a-rafael&layout=default&count_private=true&langs_count=10)
+<!-- ![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oliveira-a-rafael&layout=default&count_private=true&langs_count=10)
 
 ![Github Statistics](https://github-readme-stats.vercel.app/api/?username=oliveira-a-rafael&count_private=true&show_icons=true)
 
-![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=oliveira-a-rafael&hide_border=true)
+![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=oliveira-a-rafael&hide_border=true) -->
+
+<p align="left">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=oliveira-a-rafael" />
+  <img height="180em" src="https://user-images.githubusercontent.com/22433243/121538215-faa36d80-c9da-11eb-9dce-0def2d07ff62.gif" />
+</p>  
+  
+<p align="left">
+<a href="https://github.com/oliveira-a-rafael">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=oliveira-a-rafael&count_private=true&show_icons=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliveira-a-rafael&layout=compact&langs_count=8&hide=HCL"/>
+</a>
+</p>
+
 
 ### Let's connect? 🤝
 
