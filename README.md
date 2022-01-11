@@ -1,7 +1,8 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
 Hello World ! </h1> <hr>
 
-My name is <b>Rafael Oliveira</b>. I work as a Software Engineer at <b>Daki</b>.
+
+<h5>My name is Rafael Oliveira. I work as a Software Engineer at Daki.</h5>
 
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=oliveira-a-rafael&repo=oliveira-a-rafael&countColorcountColor)
 
