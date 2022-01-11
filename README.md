@@ -9,7 +9,7 @@ My name is <b>Rafael Oliveira</b>. I work as a Software Engineer at <b>Daki</b>.
 
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=white&color=orange)&nbsp;![Golang](https://img.shields.io/badge/-Golang-05122A?style=flat&logo=go&logoColor=white&color=orange)&nbsp;![Ruby](https://img.shields.io/badge/-Ruby-05122A?style=flat&logo=ruby&logoColor=white&color=orange)&nbsp;  ![Groovy](https://img.shields.io/badge/-Groovy-05122A?style=flat&logo=groovy&logoColor=white&color=orange)&nbsp;![Javascript](https://img.shields.io/badge/-Javascript-05122A?style=flat&logo=javascript&logoColor=white&color=orange)&nbsp;![Shell](https://img.shields.io/badge/Shell-05122A?style=flat&logo=gnu-bash&logoColor=white&color=orange)&nbsp;
 
-![Micronaut](https://img.shields.io/badge/-Micronaut-05122A?style=flat&logo=micronaut&logoColor=white&color=gray)&nbsp;
+![Micronaut](https://img.shields.io/badge/-Micronaut-05122A?style=flat&logo=micronaut&logoColor=white)&nbsp;
 ![Grails](https://img.shields.io/badge/-Grails-05122A?style=flat&logo=grails&logoColor-white
 )&nbsp;
 ![Rails](https://img.shields.io/badge/-Rails-05122A?style=flat&logo=rubyonrails&logoColor=)&nbsp;
