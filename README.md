@@ -7,12 +7,19 @@ My name is <b>Rafael Oliveira</b>. I work as a Software Engineer at <b>Daki</b>.
 
 ### Languages & Tools 🛠  
 
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&color=orange)&nbsp;![Groovy](https://img.shields.io/badge/-Groovy-05122A?style=flat&color=orange)&nbsp;![Go](https://img.shields.io/badge/-Go-05122A?style=flat&color=orange)&nbsp;![Ruby](https://img.shields.io/badge/-Ruby-05122A?style=flat&color=orange)&nbsp;  
-![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&color=33A7FF)&nbsp;![Micronaut](https://img.shields.io/badge/-Micronaut-05122A?style=flat&color=33A7FF)&nbsp;![Grails](https://img.shields.io/badge/-Grails-05122A?style=flat&color=33A7FF)&nbsp;![Rails](https://img.shields.io/badge/-Rails-05122A?style=flat&color=33A7FF)&nbsp;![Hibernate](https://img.shields.io/badge/-Hibernate-05122A?style=flat&color=33A7FF)&nbsp;  
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=white&color=orange)&nbsp;
+![Golang](https://img.shields.io/badge/-Golang-05122A?style=flat&logo=go&logoColor=white&color=orange)&nbsp;
+![Ruby](https://img.shields.io/badge/-Ruby-05122A?style=flat&logo=ruby&logoColor=white&color=orange)&nbsp;  
+![Groovy](https://img.shields.io/badge/-Groovy-05122A?style=flat&logo=groovylang.&logoColor=white&color=orange)&nbsp;
+![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=spring&color=33A7FF)&nbsp;
+![Micronaut](https://img.shields.io/badge/-Micronaut-05122A?style=flat&logo=micronaut&color=33A7FF)&nbsp;
+![Grails](https://img.shields.io/badge/-Grails-05122A?style=flat&color=33A7FF)&nbsp;
+![Rails](https://img.shields.io/badge/-Rails-05122A?style=flat&logo=rubyonrails&color=33A7FF)&nbsp;
+![Hibernate](https://img.shields.io/badge/-Hibernate-05122A?style=flat&color=33A7FF)&nbsp;  
 
 ### Analytics ⚙️
 
-![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oliveira-a-rafael&layout=default&count_private=true)
+![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oliveira-a-rafael&layout=default&count_private=true&langs_count=10)
 
 ![Github Statistics](https://github-readme-stats.vercel.app/api/?username=oliveira-a-rafael&count_private=true&show_icons=true)
 
