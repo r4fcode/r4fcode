@@ -65,7 +65,7 @@ Hello World ! </h1> <hr>
 <p align="left">
 <a href="https://github.com/oliveira-a-rafael">
   <img height="240em" src="https://github-readme-stats.vercel.app/api/?username=oliveira-a-rafael&count_private=true&show_icons=true"/>
-  <img height="240em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliveira-a-rafael&layout=default&langs_count=8&hide=HCL"/>
+  <img height="240em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliveira-a-rafael&layout=default&langs_count=8&hide=HCL&count_private=true"/>
 </a>
 </p>
 
