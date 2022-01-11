@@ -12,7 +12,7 @@ My name is <b>Rafael Oliveira</b>. I work as a Software Engineer at <b>Daki</b>.
 
 ### Analytics ⚙️
 
-![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oliveira-a-rafael&layout=compact&count_private=true)
+![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oliveira-a-rafael&layout=default&count_private=true)
 
 ![Github Statistics](https://github-readme-stats.vercel.app/api/?username=oliveira-a-rafael&count_private=true&show_icons=true)
 
