@@ -7,7 +7,7 @@ Hello World ! </h1> <hr>
 
 ### Languages & Tools 🛠  
 
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=white&color=green)&nbsp;![Golang](https://img.shields.io/badge/-Golang-05122A?style=flat&logo=go&logoColor=white&color=green)&nbsp;![Ruby](https://img.shields.io/badge/-Ruby-05122A?style=flat&logo=ruby&logoColor=white&color=green)&nbsp;  ![Groovy](https://img.shields.io/badge/-Groovy-05122A?style=flat&logo=groovy&logoColor=white&color=green)&nbsp;![Javascript](https://img.shields.io/badge/-Javascript-05122A?style=flat&logo=javascript&logoColor=white&color=green)&nbsp;![Shell](https://img.shields.io/badge/Shell-05122A?style=flat&logo=gnu-bash&logoColor=white&color=green)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=white&color=orange)&nbsp;![Golang](https://img.shields.io/badge/-Golang-05122A?style=flat&logo=go&logoColor=white&color=orange)&nbsp;![Ruby](https://img.shields.io/badge/-Ruby-05122A?style=flat&logo=ruby&logoColor=white&color=orange)&nbsp;  ![Groovy](https://img.shields.io/badge/-Groovy-05122A?style=flat&logo=groovy&logoColor=white&color=orange)&nbsp;![Javascript](https://img.shields.io/badge/-Javascript-05122A?style=flat&logo=javascript&logoColor=white&color=orange)&nbsp;![Shell](https://img.shields.io/badge/Shell-05122A?style=flat&logo=gnu-bash&logoColor=white&color=orange)&nbsp;
 
 ![Micronaut](https://img.shields.io/badge/-Micronaut-05122A?style=flat&logo=micronaut&logoColor=white)&nbsp;
 ![Grails](https://img.shields.io/badge/-Grails-05122A?style=flat&logo=grails&logoColor-white
