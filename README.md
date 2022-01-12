@@ -52,12 +52,13 @@ Hello World ! </h1> <hr>
 
 ### Analytics ⚙️
 
-<!-- ![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oliveira-a-rafael&layout=default&count_private=true&langs_count=10)
+![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oliveira-a-rafael&layout=default&count_private=true&langs_count=10)
 
 ![Github Statistics](https://github-readme-stats.vercel.app/api/?username=oliveira-a-rafael&count_private=true&show_icons=true)
 
-![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=oliveira-a-rafael&hide_border=true) -->
+![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=oliveira-a-rafael&hide_border=true&count_private=true)
 
+<!-- 
 <p align="left">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=oliveira-a-rafael" />
 </p>  
@@ -67,7 +68,7 @@ Hello World ! </h1> <hr>
   <img height="240em" src="https://github-readme-stats.vercel.app/api/?username=oliveira-a-rafael&count_private=true&show_icons=true"/>
   <img height="240em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliveira-a-rafael&layout=default&langs_count=8&hide=HCL&count_private=true"/>
 </a>
-</p>
+</p> -->
 
 
 ### Let's connect? 🤝
