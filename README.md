@@ -53,7 +53,7 @@ Hello World ! </h1> <hr>
 
 ### Analytics ⚙️
 
-![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oliveira-a-rafael&layout=default&count_private=true&langs_count=10)
+![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oliveira-a-rafael&layout=default&count_private=true&langs_count=20)
 
 ![Github Statistics](https://github-readme-stats.vercel.app/api/?username=oliveira-a-rafael&count_private=true&show_icons=true)
 
