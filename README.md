@@ -61,7 +61,10 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oliveira-a-rafael&layout=compact&langs_count=10)
 ![Stats](https://github-readme-stats.vercel.app/api/?username=oliveira-a-rafael&show_icons=true)
-![Streak](https://streak-stats.demolab.com?user=oliveira-a-rafael&hide_border=true)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=oliveira-a-rafael)](https://git.io/streak-stats)
+
+<!-- ![Streak](https://streak-stats.demolab.com?user=oliveira-a-rafael&hide_border=true) -->
 
 <!-- ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=oliveira-a-rafael&hide_border=true) -->
 
