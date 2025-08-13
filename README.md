@@ -14,7 +14,7 @@
 ![Golang](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go&labelColor=05122A&color=FFFCAE)
 ![Ruby](https://img.shields.io/badge/-Ruby-05122A?style=flat&logo=ruby&logoColor=red&labelColor=05122A&color=FFFCAE)
 ![Groovy](https://img.shields.io/badge/-Groovy-05122A?style=flat&logo=apachegroovy&labelColor=05122A&color=FFFCAE)
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript&labelColor=05122A&color=FFFCAE)
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?logo=javascript&labelColor=05122A&color=FFFCAE)
 ![Shell](https://img.shields.io/badge/-Shell-05122A?style=flat&logo=gnu-bash&labelColor=05122A&color=FFFCAE)
 
 ![Micronaut](https://img.shields.io/badge/-Micronaut-05122A?style=flat&logo=micronaut)
@@ -61,7 +61,8 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oliveira-a-rafael&layout=compact&langs_count=10)
 ![Stats](https://github-readme-stats.vercel.app/api/?username=oliveira-a-rafael&show_icons=true)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=oliveira-a-rafael&hide_border=true)
+
+<!-- ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=oliveira-a-rafael&hide_border=true) -->
 
 <!-- Private + public combined (rendered by your Action using PAT) -->
 
