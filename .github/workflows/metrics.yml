@@ -1,0 +1,54 @@
+name: Profile Metrics
+
+on:
+  schedule:
+    - cron: "0 */12 * * *" # update every 12h
+  workflow_dispatch:
+
+permissions:
+  contents: write # needed for committing the SVG
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          # --- Auth ---
+          token: ${{ secrets.METRICS_TOKEN }} # your PAT with repo + read:user
+          committer_token: ${{ secrets.GITHUB_TOKEN }} # built-in token to commit the SVG
+
+          # --- Target account ---
+          user: oliveira-a-rafael
+
+          # --- Output file ---
+          filename: github-metrics.svg
+
+          # --- Look & feel ---
+          template: classic
+          config_timezone: America/Sao_Paulo
+          config_animations: yes
+          config_twemoji: yes
+          optimize: svg
+
+          # --- Make repo counts prominent (includes private thanks to your PAT) ---
+          base: header, repositories
+          repositories_affiliations: owner, collaborator, organization_member
+          repositories_forks: yes
+
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          user: oliveira-a-rafael
+          filename: github-metrics-dark.svg
+          template: classic
+          config_timezone: America/Sao_Paulo
+          config_animations: yes
+          config_twemoji: yes
+          optimize: svg
+          config_theme: dark
+
+          base: header, repositories
+          repositories_affiliations: owner, collaborator, organization_member
+          repositories_forks: yes
