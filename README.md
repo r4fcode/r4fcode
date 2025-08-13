@@ -47,14 +47,6 @@
 
 ---
 
-### Analytics ⚙️
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oliveira-a-rafael&layout=compact&langs_count=10)
-![Stats](https://github-readme-stats.vercel.app/api/?username=oliveira-a-rafael&show_icons=true)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=oliveira-a-rafael&hide_border=true)
-
----
-
 ### Highlights ✨
 
 - Senior Software Engineer • Java, Spring, Go, MongoDB
@@ -63,17 +55,27 @@
 
 ---
 
+### Analytics & Repositories ⚙️📦
+
+<!-- Public GitHub cards (no private data) -->
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oliveira-a-rafael&layout=compact&langs_count=10)
+![Stats](https://github-readme-stats.vercel.app/api/?username=oliveira-a-rafael&show_icons=true)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=oliveira-a-rafael&hide_border=true)
+
+<!-- Private + public combined (rendered by your Action using PAT) -->
+
+#### Public + Private Overview
+
+<img src="./github-metrics.svg" alt="GitHub metrics (public + private)" />
+
+<!-- Prefer dark theme? Uncomment the next line and comment the previous image -->
+<!-- <img src="./github-metrics-dark.svg" alt="GitHub metrics (public + private, dark)" /> -->
+
+---
+
 ### Let’s connect 🤝
 
 <a href="https://www.linkedin.com/in/rafaoliveira85/">
   <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
 </a>
-
-![Metrics](https://raw.githubusercontent.com/oliveira-a-rafael/oliveira-a-rafael/main/github-metrics.svg)
-
-### Repositories (public + private)
-
-<img src="./github-metrics.svg" alt="GitHub metrics" />
-
-<!-- If you prefer dark: -->
-<!-- <img src="./github-metrics-dark.svg" alt="GitHub metrics (dark)" /> -->
