@@ -69,7 +69,7 @@
 
 #### Public + Private Overview
 
-<img src="./github-metrics.svg" alt="GitHub metrics (public + private)" />
+<img src="./github-metrics.svg" alt="GitHub metrics" />
 
 <!-- Prefer dark theme? Uncomment the next line and comment the previous image -->
 <!-- <img src="./github-metrics-dark.svg" alt="GitHub metrics (public + private, dark)" /> -->
