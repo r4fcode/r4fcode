@@ -10,7 +10,10 @@
 
 ### Languages & Tools 🛠
 
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java&logoColor=red&labelColor=05122A&color=FFFCAE)
+<!-- https://img.shields.io/badge/Java-17-orange?logo=java -->
+<!-- ![Java](https://img.shields.io/badge/Java-17?style=flat&logo=java&logoColor=red&labelColor=05122A&color=FFFCAE) -->
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=red&labelColor=05122A&color=FFFCAE)
 ![Golang](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go&labelColor=05122A&color=FFFCAE)
 ![Ruby](https://img.shields.io/badge/-Ruby-05122A?style=flat&logo=ruby&logoColor=red&labelColor=05122A&color=FFFCAE)
 ![Groovy](https://img.shields.io/badge/-Groovy-05122A?style=flat&logo=apachegroovy&labelColor=05122A&color=FFFCAE)
@@ -70,7 +73,7 @@
 
 <!-- Private + public combined (rendered by your Action using PAT) -->
 
-#### Public + Private Overview
+#### Metrics Overview
 
 <img src="./github-metrics.svg" alt="GitHub metrics" />
 
