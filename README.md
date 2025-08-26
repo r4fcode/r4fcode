@@ -5,13 +5,7 @@
 
 #### I’m <b>Rafael Oliveira</b>
 
-<!-- Optional: visitor counter (remove if you prefer fewer requests) -->
-<!-- ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=r4fcode&repo=r4fcode&countColorcountColor) -->
-
 ### Languages & Tools 🛠
-
-<!-- https://img.shields.io/badge/Java-17-orange?logo=java -->
-<!-- ![Java](https://img.shields.io/badge/Java-17?style=flat&logo=java&logoColor=red&labelColor=05122A&color=FFFCAE) -->
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=red&labelColor=05122A&color=FFFCAE)
 ![Golang](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go&labelColor=05122A&color=FFFCAE)
@@ -67,18 +61,9 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=r4fcode)](https://git.io/streak-stats)
 
-<!-- ![Streak](https://streak-stats.demolab.com?user=r4fcode&hide_border=true) -->
-
-<!-- ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=r4fcode&hide_border=true) -->
-
-<!-- Private + public combined (rendered by your Action using PAT) -->
-
 #### Metrics Overview
 
 <img src="./github-metrics.svg" alt="GitHub metrics" />
-
-<!-- Prefer dark theme? Uncomment the next line and comment the previous image -->
-<!-- <img src="./github-metrics-dark.svg" alt="GitHub metrics (public + private, dark)" /> -->
 
 ---
 
