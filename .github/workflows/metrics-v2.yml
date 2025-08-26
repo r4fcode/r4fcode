@@ -22,7 +22,7 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }} # seu PAT classic
           committer_token: ${{ secrets.GITHUB_TOKEN }} # para commitar o SVG
-          user: oliveira-a-rafael
+          user: r4fcode
           filename: github-metrics.svg
 
           template: classic

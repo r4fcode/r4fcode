@@ -6,7 +6,7 @@
 #### I’m <b>Rafael Oliveira</b>
 
 <!-- Optional: visitor counter (remove if you prefer fewer requests) -->
-<!-- ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=oliveira-a-rafael&repo=oliveira-a-rafael&countColorcountColor) -->
+<!-- ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=r4fcode&repo=r4fcode&countColorcountColor) -->
 
 ### Languages & Tools 🛠
 
@@ -62,14 +62,14 @@
 
 <!-- Public GitHub cards (no private data) -->
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oliveira-a-rafael&layout=compact&langs_count=10)
-![Stats](https://github-readme-stats.vercel.app/api/?username=oliveira-a-rafael&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=r4fcode&layout=compact&langs_count=10)
+![Stats](https://github-readme-stats.vercel.app/api/?username=r4fcode&show_icons=true)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=oliveira-a-rafael)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=r4fcode)](https://git.io/streak-stats)
 
-<!-- ![Streak](https://streak-stats.demolab.com?user=oliveira-a-rafael&hide_border=true) -->
+<!-- ![Streak](https://streak-stats.demolab.com?user=r4fcode&hide_border=true) -->
 
-<!-- ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=oliveira-a-rafael&hide_border=true) -->
+<!-- ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=r4fcode&hide_border=true) -->
 
 <!-- Private + public combined (rendered by your Action using PAT) -->
 
